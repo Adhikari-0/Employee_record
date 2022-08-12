@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.totalBox {
+    position: relative;
+   
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+}
+/* .totalBox .textFieldBx{
+    position: fixed;
+} */
+.totalBox .textFieldBx .employeeHeading{
+    margin-top: 0px;
+    /* position: fixed; */
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    /* margin: auto; */
+}
+.totalBox .textFieldBx .employeeForm{
+    background-color: white;
+    width: 800px;
+    margin: auto;
+}
+.totalBox .textFieldBx .searchingName{
+    display: flex;
+    margin-top: 30px;
+    /* width: 800px; */
+    /* margin: auto; */
+}
+.totalBox .textFieldBx .displayEmployeeHeading{
+    margin-top: 20px;
+}
+.employeeDetail{
+    background-color: white;
+    width: 1000px;
+    margin: auto;
+}

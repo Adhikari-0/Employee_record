@@ -1,0 +1,19 @@
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+img{
+  cursor: pointer;
+}
+.tablecenter{
+  justify-content: center;
+  align-items: center;
+}
+tr td img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

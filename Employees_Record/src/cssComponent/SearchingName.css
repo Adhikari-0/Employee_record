@@ -1,0 +1,13 @@
+.containerSearching{
+    width: 800px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 
+}
+.container1ASearching {
+    float: left;
+    margin: 0px 5px 0px 0px;
+}
+.containerSearching .container1ASearching input
+{
+    padding: 3px;
+}

@@ -1,0 +1,44 @@
+.container {
+    width: 800px;
+    /* border: 1px solid blue;  */
+}
+
+.container1 {
+    width: 800px;
+    /* border: 1px solid black; */
+    padding: 20px 0px 10px 0px;
+    margin: 0px
+}
+
+.container1A {
+    float: left;
+    margin: 0px 5px 0px 0px;
+}
+.container1A input
+{
+    padding: 2px;
+}
+.selectOption {
+    width: 137px;
+    padding: 3px;
+    /* height: 40px; */
+}
+
+.buttonContainer {
+    width: 800px;
+    padding: 20px 0px 10px 0px;
+    margin: 20px 0px 0px 0px
+}
+
+.buttonClass {
+    float: left;
+    padding: 3px;
+    margin: 0px 10px 0px 0px;
+
+}
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+    display: block;
+    width: 138px;
+}
