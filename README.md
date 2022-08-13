@@ -8,7 +8,7 @@ The above project are created using Nodejs in backend and Reactjs in frontend.<b
 #Go to the Backand folder by using (cd Backend ) from your current prject folder<br />
 
 <h3>Open terminal and install <h3> <br />
-Step 1 : npm init<br />
+<p> Step 1 : npm init <p> <br />
 step 2 : npm i express<br /> 
 step 3 : npm i mongoose<br />
 step 4 : npm i express-validator<br />
