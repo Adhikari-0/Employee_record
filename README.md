@@ -7,7 +7,7 @@ The above project are created using Nodejs in backend and Reactjs in frontend.<b
 **To Execute Backend Nodejs You have to install some npm package first.**<br />
 #Go to the Backand folder by using (cd Backend ) from your current prject folder<br />
 
-**Open terminal and install**<br />
+<h3>Open terminal and install <h3> <br />
 Step 1 : npm init<br />
 step 2 : npm i express<br /> 
 step 3 : npm i mongoose<br />
