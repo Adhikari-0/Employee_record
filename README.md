@@ -1,6 +1,6 @@
 # Employees_record
 
-**This project is use to store employee record using ( mongooseDB, Nodejs & Reactjs)
+**This project is use to store employee record using ( mongodb, Nodejs & Reactjs)
 
 The above project are created using Nodejs in backend and Reactjs in frontend.<br />
 
@@ -12,7 +12,7 @@ The above project are created using Nodejs in backend and Reactjs in frontend.<b
 Open terminal and install <br />
 Step 1 : npm init<br />
 step 2 : npm i express<br /> 
-step 3 : npm i mongoose<br />
+step 3 : npm i mongodb<br />
 step 4 : npm i express-validator<br />
 step 5 : npm i cors<br />
 step 6 : npm i -D nodemon (do not make the part of application)<br />
@@ -22,4 +22,5 @@ stpe 8 : npm i jsonwebtoken (authenticate the user time to time for CRUD operati
 **To run the backend you have to execute the command**<br />
 npx nodemon index.js<br />
 
-**You know about the reactjs**
+**You know about the reactjs** <br/>
+you can store the data, retrieve the data, edit the data, update the data & search the data from database(mongodb) using web app <br/>
