@@ -4,11 +4,13 @@
 
 The above project are created using Nodejs in backend and Reactjs in frontend.<br />
 
+** You have to import the ( tbl_country.json, tbl_state.json, tbl_city.json) file in mongoosedb for country, state, city** <br/>
+
 **To Execute Backend Nodejs You have to install some npm package first.**<br />
 #Go to the Backand folder by using (cd Backend ) from your current prject folder<br />
 
-<h3>Open terminal and install <h3> <br />
-<p> Step 1 : npm init <p> <br />
+Open terminal and install <br />
+Step 1 : npm init<br />
 step 2 : npm i express<br /> 
 step 3 : npm i mongoose<br />
 step 4 : npm i express-validator<br />
