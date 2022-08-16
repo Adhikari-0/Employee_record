@@ -19,10 +19,10 @@ step 6 : npm i -D nodemon (do not make the part of application)<br />
 step 7 : npm i bcryptjs (for password encryption)<br />
 stpe 8 : npm i jsonwebtoken (authenticate the user time to time for CRUD operation)<br />
 
-**To run the backend you have to execute the command**<br />
+<h3>To run the backend you have to execute the command</h3>
 npx nodemon index.js<br />
 
-**You know about the reactjs** <br/>
+<h3>You know about the reactjs</h3>
 you can store the data, retrieve the data, edit the data, update the data & search the data from database(mongodb) using web app <br/>
 
 <h2> If You have any problem related to this project than contact me On</h2>
